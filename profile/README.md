@@ -26,7 +26,7 @@ We're always on the hunt for new pals who share our passion for technology and i
 
 Got questions, ideas, or just want to chat about the latest in AI and hardware? Feel free to reach out to us!
 
-- **Email**: hello@futurpals.com
+- **Email**: info@futurpals.com
 - **Twitter**: [@futurpals](none)
 - **LinkedIn**: [FuturPals](none)
 
