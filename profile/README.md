@@ -47,8 +47,8 @@
 ### 🇬🇧 English
 1. **Purchase**: Order via [JD.com](https://jd.com) or our [Official Website](https://futurpals.com/).  
 2. **Download the App**:  
-   - iOS: [App Store](#)  
-   - Android: [Google Play](#)  
+   - iOS: [App Store](https://apps.apple.com/us/app/brightbuddies/id6744045523)  
+   - Android: [Google Play](https://play.google.com/store/apps/details?id=com.futurpals.iprojectoren&pcampaignid=web_share)  
 3. **Start Creating**:  
    - Turn on the projector  
    - Choose AI-generated or camera-captured images in the app  
