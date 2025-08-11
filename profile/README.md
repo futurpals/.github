@@ -37,8 +37,8 @@
 ### 🇨🇳 中文
 1. **购买设备**：在 [京东](https://jd.com) 或 [官网](https://futurpals.com/) 下单。  
 2. **下载 App**：  
-   - iOS: [App Store 下载](#)  
-   - Android: [Google Play 下载](#)  
+   - iOS: [App Store 下载](https://apps.apple.com/us/app/brightbuddies/id6744045523)  
+   - Android: [Google Play 下载](https://play.google.com/store/apps/details?id=com.futurpals.iprojectoren&pcampaignid=web_share)  
 3. **开始创作**：  
    - 打开投影仪  
    - 在 App 里选择 AI 生成 / 拍照生成图片  
