@@ -60,10 +60,10 @@
 
 | 参数 / Spec | 描述 / Description |
 |-------------|--------------------|
-| 投影分辨率 / Resolution | 1080P |
+| 投影分辨率 / Resolution | 320P |
 | 光源类型 / Light Source | LED 低蓝光 / Low Blue Light LED |
 | AI 生成 / AI Generation | 多种绘画风格 / Multiple Art Styles |
-| 连接方式 / Connectivity | Wi-Fi / Bluetooth |
+| 连接方式 / Connectivity | Bluetooth |
 | 电源 / Power | Type-C 充电 / Type-C Charging |
 
 ---
@@ -89,5 +89,5 @@
 ## 📜 License
 
 本仓库主要用于展示 **好奇羊驼 AI 绘画投影仪** 的相关资源与技术文档。  
-This repository is for showcasing resources and documentation for **FuturPals Smart Sketch Projector**.  
+This repository is for showcasing resources and documentation for **BrightBuddies Smart Drawing Projector**.  
 © 2025 FuturPals. All Rights Reserved.
