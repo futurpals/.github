@@ -27,7 +27,7 @@
 
 ## 📸 产品展示 | Product Gallery
 
-![好奇羊驼 AI 绘画投影仪](https://futurpals.com/path/to/product-image.jpg)  
+![好奇羊驼 AI 绘画投影仪](https://futurpals.com/cdn/shop/files/2_1080x.png?v=1753351043)  
 > _更多图片请访问 [futurpals.com](https://futurpals.com/) | More images on [futurpals.com](https://futurpals.com/)_
 
 ---
