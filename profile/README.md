@@ -45,7 +45,7 @@
    - 投影到桌面，让孩子跟着画  
 
 ### 🇬🇧 English
-1. **Purchase**: Order via [JD.com](https://jd.com) or our [Official Website](https://futurpals.com/).  
+1. **Purchase**: Order via our [Official Website](https://futurpals.com/).  
 2. **Download the App**:  
    - iOS: [App Store](https://apps.apple.com/us/app/brightbuddies/id6744045523)  
    - Android: [Google Play](https://play.google.com/store/apps/details?id=com.futurpals.iprojectoren&pcampaignid=web_share)  
