@@ -1,4 +1,4 @@
-# 🦙 好奇羊驼 AI 绘画投影仪 | BrightBuddies Smart Drawing Projector
+# 🦙 好奇羊驼 AI 绘画投影仪 | YotureToys AI Drawing Projector
 
 > **让孩子的创造力，看得见、画得出、玩得开心！**  
 > Turn every child's imagination into beautiful drawings — powered by AI & safe projection.  
@@ -89,5 +89,5 @@
 ## 📜 License
 
 本仓库主要用于展示 **好奇羊驼 AI 绘画投影仪** 的相关资源与技术文档。  
-This repository is for showcasing resources and documentation for **BrightBuddies Smart Drawing Projector**.  
+This repository is for showcasing resources and documentation for **YotureToys AI Drawing Projector**.  
 © 2025 FuturPals. All Rights Reserved.
