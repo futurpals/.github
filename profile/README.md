@@ -33,7 +33,7 @@ Designed to enhance **Fine Motor Skills**, **Concentration**, and **Spatial Awar
 
 ## 🖼️ Visual Gallery
 
-![Yoturetoys AI Projector](https://futurpals.com/cdn/shop/files/2_1080x.png?v=1753351043)  
+![Yoturetoys AI Projector](https://cdn.shopify.com/s/files/1/0918/0368/1132/files/20251011-092843.png?v=1764329275)
 
 > More images on [yoturetoys.com](https://yoturetoys.com/)
 
