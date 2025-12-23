@@ -90,5 +90,3 @@ We are building the future of play. Join our community for updates, featured art
 
  Designing the tools for tomorrow's artists.</small>
 </p>
-
----
