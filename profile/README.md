@@ -2,7 +2,7 @@
 
 > **让孩子的创造力，看得见、画得出、玩得开心！**  
 > Turn every child's imagination into beautiful drawings — powered by AI & safe projection.  
-> 🌐 官网 / Website: [futurpals.com](https://futurpals.com/)  
+> 🌐 官网 / Website: [yoturetoys.com](https://yoturetoys.com/)  
 > 📧 邮箱 / Email: info@futurpals.com  
 
 ---
@@ -28,14 +28,14 @@
 ## 📸 产品展示 | Product Gallery
 
 ![好奇羊驼 AI 绘画投影仪](https://futurpals.com/cdn/shop/files/2_1080x.png?v=1753351043)  
-> _更多图片请访问 [futurpals.com](https://futurpals.com/) | More images on [futurpals.com](https://futurpals.com/)_
+> _更多图片请访问 [yoturetoys.com](https://yoturetoys.com/) | More images on [yoturetoys.com](https://yoturetoys.com/)_
 
 ---
 
 ## 🚀 使用方法 | How to Use
 
 ### 🇨🇳 中文
-1. **购买设备**：在 [京东](https://jd.com) 或 [官网](https://futurpals.com/) 下单。  
+1. **购买设备**：在 [京东](https://jd.com) 或 [官网](https://yoturetoys.com/) 下单。  
 2. **下载 App**：  
    - iOS: [App Store 下载](https://apps.apple.com/us/app/brightbuddies/id6744045523)  
    - Android: [Google Play 下载](https://play.google.com/store/apps/details?id=com.futurpals.iprojectoren&pcampaignid=web_share)  
@@ -45,7 +45,7 @@
    - 投影到桌面，让孩子跟着画  
 
 ### 🇬🇧 English
-1. **Purchase**: Order via our [Official Website](https://futurpals.com/).  
+1. **Purchase**: Order via our [Official Website](https://yoturetoys.com/).  
 2. **Download the App**:  
    - iOS: [App Store](https://apps.apple.com/us/app/brightbuddies/id6744045523)  
    - Android: [Google Play](https://play.google.com/store/apps/details?id=com.futurpals.iprojectoren&pcampaignid=web_share)  
@@ -71,7 +71,7 @@
 ## 🛒 购买与渠道 | Where to Buy
 
 - 🇨🇳 **京东官方旗舰店**（双十一限量优惠）  
-- 🌐 **官网 / Official Website**: [futurpals.com](https://futurpals.com/)  
+- 🌐 **官网 / Official Website**: [yoturetoys.com](https://yoturetoys.com/)  
 - 📱 **社交平台 / Social Media**:  
   - 小红书 / RED  
   - 抖音 / TikTok  
@@ -82,7 +82,7 @@
 ## ❤️ 社区与支持 | Community & Support
 
 - 📧 **商务合作 / Business Inquiries**: info@futurpals.com  
-- 🌐 **官网 / Website**: [futurpals.com](https://futurpals.com/)  
+- 🌐 **官网 / Website**: [yoturetoys.com](https://yoturetoys.com/)  
 
 ---
 
