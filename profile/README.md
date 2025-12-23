@@ -1,4 +1,4 @@
-# 🦙 好奇羊驼 AI 绘画投影仪 | YotureToys AI Drawing Projector
+# 🦙 好奇羊驼 AI 绘画投影仪 | Yoturetoys AI Drawing Projector
 
 > **让孩子的创造力，看得见、画得出、玩得开心！**  
 > Turn every child's imagination into beautiful drawings — powered by AI & safe projection.  
